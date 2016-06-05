@@ -7,12 +7,12 @@ Python 3.5.1 :: Anaconda 4.0.0 (x86_64)
 ```
 
 #Installed packages in Atom for Python
-- python-language
+- python-language  
 Actually this is pre-install :)
-- python-indent
+- python-indent  
 Supports better indent in Python
-- scripts
+- scripts  
 Run python code in Atom
-- Sublime Style Column Selection
-- Project Manager
+- Sublime Style Column Selection  
+- Project Manager  
 Manage project easily in Atom
