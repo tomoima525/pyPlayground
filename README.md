@@ -12,7 +12,7 @@ Actually this is pre-install :)
 - python-indent  
 Supports better indent in Python
 - scripts  
-Run python code in Atom
+Run python code in Atom with cmd-i
 - Sublime Style Column Selection  
 - Project Manager  
 Manage project easily in Atom
