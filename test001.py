@@ -1,3 +1,4 @@
+### find, if
 str1="水金地火木"
 
 str2=input("検索文字列:")
