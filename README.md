@@ -16,3 +16,6 @@ Run python code in Atom with cmd-i
 - Sublime Style Column Selection  
 - Project Manager  
 Manage project easily in Atom
+
+#Referred Docs
+[The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/structure/)
