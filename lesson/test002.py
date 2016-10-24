@@ -20,3 +20,10 @@ print(lst)
 
 lst2=[num**3 for num in range(0,21,2)]
 print(lst2)
+
+
+list1 = [1,2,3]
+list2 = [4,5,6]
+for a,b in zip(list1,list2):
+    print(a+b)
+    
